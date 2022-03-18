@@ -13,3 +13,4 @@ tür adı, ağırlığı, yaşı vb.
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
+![](https://github.com/emre-cakar/NesneYonelimliProgramlama/blob/main/HayvanatBahcesi/UML_Diagram.png?raw=true)
